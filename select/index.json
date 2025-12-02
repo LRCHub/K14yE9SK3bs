@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "お返事まだカナ？おじさん構文！",
+  "base_artist": "吉本おじさん",
+  "createdAt": "2025-12-02T13:02:11.825316Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "お返事まだカナ？おじさん構文！ (feat. Ui)",
+      "artist": "yoshimoto ojisan",
+      "has_synced": true,
+      "path": "select/01_お返事まだカナ_おじさん構文!_(feat._Ui)_yoshimoto_ojisan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "お返事まだカナ?おじさん構文! (feat. 雨衣)",
+      "artist": "吉本おじさん",
+      "has_synced": false,
+      "path": "select/pl_01_お返事まだカナ_おじさん構文!_(feat._雨衣)_吉本おじさん.txt"
+    }
+  ]
+}
